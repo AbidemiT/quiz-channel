@@ -8,6 +8,15 @@ body {
   background: #e6ecf1;
 }
 
+.navbar {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.heading {
+  text-align: center;
+}
+
 .ctr {
   margin: 0 auto;
   max-width: 600px;
